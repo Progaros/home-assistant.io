@@ -348,7 +348,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [device_tracker docs]: /components/device_tracker/
 [device_tracker.bluetooth_tracker docs]: /components/bluetooth_tracker/
 [device_tracker.bmw_connected_drive docs]: /components/bmw_connected_drive/
-[device_tracker.google_maps docs]: /components/google_translate_maps/
+[device_tracker.google_maps docs]: /components/google_maps/
 [doorbird docs]: /components/doorbird/
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
 [folder_watcher docs]: /components/folder_watcher/
@@ -407,7 +407,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [tahoma docs]: /components/tahoma/
 [tradfri docs]: /components/tradfri/
 [folder_watcher docs]: /components/folder_watcher/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zwave docs]: /components/zwave/
 [ann-ubiquiti]: /blog/2018/04/12/ubiquiti-and-home-assistant/
 [#13728]: https://github.com/home-assistant/home-assistant/pull/13728

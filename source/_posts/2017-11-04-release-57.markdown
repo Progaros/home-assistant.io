@@ -557,8 +557,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fan.mqtt docs]: /components/fan.mqtt/
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
 [gc100 docs]: /components/gc100/
-[google_assistant docs]: /components/google_translate_assistant/
-[google_domains docs]: /components/google_translate_domains/
+[google_assistant docs]: /components/google_assistant/
+[google_domains docs]: /components/google_domains/
 [hassio docs]: /components/hassio/
 [history docs]: /components/history/
 [http docs]: /components/http/
@@ -642,7 +642,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [vacuum.xiaomi_miio docs]: /components/vacuum.xiaomi_miio/
 [vera docs]: /components/vera/
 [wink docs]: /components/wink/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [ikea email]: https://twitter.com/home_assistant/status/925373865802502144
 [wink-auth]: /components/wink/#authenticate-using-developerwinkcomhttpsdeveloperwinkcom
 [#10384]: https://github.com/home-assistant/home-assistant/pull/10384

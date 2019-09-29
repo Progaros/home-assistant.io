@@ -682,7 +682,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [frontend docs]: /components/frontend/
 [geniushub docs]: /components/geniushub/
 [geofency docs]: /components/geofency/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [gpslogger docs]: /components/gpslogger/
 [hassio docs]: /components/hassio/
 [heos docs]: /components/heos/
@@ -737,8 +737,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [verisure docs]: /components/verisure/
 [watson_tts docs]: /components/watson_tts/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
-[xiaomi_tv docs]: /components/xiaomi_aqara_tv/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
+[xiaomi_tv docs]: /components/xiaomi_tv/
 [yeelight docs]: /components/yeelight/
 [zeroconf docs]: /components/zeroconf/
 [zestimate docs]: /components/zestimate/

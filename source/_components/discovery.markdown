@@ -36,7 +36,7 @@ Home Assistant can discover and automatically configure [zeroconf](https://en.wi
  * [Wink](/components/wink/)
  * [Yamaha media player](/components/yamaha/)
  * [Yeelight Sunflower bulb](/components/yeelightsunflower/)
- * [Xiaomi Gateway (Aqara)](/components/xiaomi_aqara_aqara/)
+ * [Xiaomi Gateway (Aqara)](/components/xiaomi_aqara/)
 
 It will be able to add Google Chromecasts and Belkin WeMo switches automatically,
 for Philips Hue it will require some configuration from the user.

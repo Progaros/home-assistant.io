@@ -523,7 +523,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [@balloob]: https://github.com/balloob
 [@cdce8p]: https://github.com/cdce8p
 [@mjg59]: https://github.com/mjg59
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [homekit docs]: /components/homekit/
 [homekit_controller docs]: /components/homekit_controller/
 [light.hue docs]: /components/hue/

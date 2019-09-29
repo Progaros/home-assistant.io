@@ -679,7 +679,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fibaro docs]: /components/fibaro/
 [frontend docs]: /components/frontend/
 [geo_location docs]: /components/geo_location/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [hassio docs]: /components/hassio/
 [hdmi_cec docs]: /components/hdmi_cec/
 [history docs]: /components/history/

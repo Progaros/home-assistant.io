@@ -738,7 +738,7 @@ Users will need to change `- platform: firetv` to `- platform: androidtv` in the
 [emulated_hue docs]: /components/emulated_hue/
 [enigma2 docs]: /components/enigma2/
 [frontend docs]: /components/frontend/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [group docs]: /components/group/
 [hassio docs]: /components/hassio/
 [homekit_controller docs]: /components/homekit_controller/

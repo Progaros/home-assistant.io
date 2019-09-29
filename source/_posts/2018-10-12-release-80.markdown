@@ -637,7 +637,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [ffmpeg docs]: /components/ffmpeg/
 [fritzbox docs]: /components/fritzbox/
 [frontend docs]: /components/frontend/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [group docs]: /components/group/
 [hangouts docs]: /components/hangouts/
 [hassio docs]: /components/hassio/
@@ -722,6 +722,6 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [weather.openweathermap docs]: /components/openweathermap/
 [webhook docs]: /components/webhook/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zoneminder docs]: /components/zoneminder/
 [zwave docs]: /components/zwave/

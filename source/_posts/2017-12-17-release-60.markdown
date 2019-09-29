@@ -369,7 +369,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [tellstick docs]: /components/tellstick/
 [vera docs]: /components/vera/
 [volvooncall docs]: /components/volvooncall/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [#11054]: https://github.com/home-assistant/home-assistant/pull/11054
 [#11185]: https://github.com/home-assistant/home-assistant/pull/11185
 [#11214]: https://github.com/home-assistant/home-assistant/pull/11214

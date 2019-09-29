@@ -752,9 +752,9 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fortios docs]: /components/fortios/
 [geniushub docs]: /components/geniushub/
 [google cal docs]: /components/calendar.google/
-[google_assistant docs]: /components/google_translate_assistant/
-[google_maps docs]: /components/google_translate_maps/
-[google_travel_time docs]: /components/google_translate_travel_time/
+[google_assistant docs]: /components/google_assistant/
+[google_maps docs]: /components/google_maps/
+[google_travel_time docs]: /components/google_travel_time/
 [group docs]: /components/group/
 [history docs]: /components/history/
 [hive docs]: /components/hive/
@@ -840,6 +840,6 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [wink docs]: /components/wink/
 [workday docs]: /components/workday/
 [wwlln docs]: /components/wwlln/
-[xiaomi_miio docs]: /components/xiaomi_aqara_miio/
+[xiaomi_miio docs]: /components/xiaomi_miio/
 [zha docs]: /components/zha/
 [zwave docs]: /components/zwave/

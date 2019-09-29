@@ -540,7 +540,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [feedreader docs]: /components/feedreader/
 [frontend docs]: /components/frontend/
 [goalfeed docs]: /components/goalfeed/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [group docs]: /components/group/
 [homematic docs]: /components/homematic/
 [http docs]: /components/http/

@@ -407,7 +407,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [switch.raincloud docs]: /components/raincloud/
 [switch.rainmachine docs]: /components/rainmachine/
 [vera docs]: /components/vera/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [zone docs]: /components/zone/
 [zwave docs]: /components/zwave/

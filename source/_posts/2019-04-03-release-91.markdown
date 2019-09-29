@@ -767,7 +767,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [frontend docs]: /components/frontend/
 [generic docs]: /components/generic/
 [generic_thermostat docs]: /components/generic_thermostat/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [group docs]: /components/group/
 [gtfs docs]: /components/gtfs/
 [hassio docs]: /components/hassio/
@@ -843,8 +843,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [upnp docs]: /components/upnp/
 [voicerss docs]: /components/voicerss/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
-[xiaomi_miio docs]: /components/xiaomi_aqara_miio/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
+[xiaomi_miio docs]: /components/xiaomi_miio/
 [yandextts docs]: /components/yandextts/
 [yeelight docs]: /components/yeelight/
 [zha docs]: /components/zha/

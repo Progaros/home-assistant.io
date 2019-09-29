@@ -344,7 +344,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [vacuum.mqtt docs]: /components/vacuum.mqtt/
 [vacuum.xiaomi docs]: /components/vacuum.xiaomi_miio/
 [xiaomi docs]: /components/xiaomi_aqara/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zwave docs]: /components/zwave/
 [forum]: https://community.home-assistant.io/
 [issue]: https://github.com/home-assistant/home-assistant/issues

@@ -860,7 +860,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [weather.yweather docs]: /components/yweather/
 [websocket_api docs]: /components/websocket_api/
 [wink docs]: /components/wink/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [zoneminder docs]: /components/zoneminder/
 [zwave docs]: /components/zwave/

@@ -447,7 +447,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [media_player.snapcast docs]: /components/snapcast/
 [media_player.sonos docs]: /components/sonos/
 [media_player.spotify docs]: /components/spotify/
-[media_player.xiaomi_tv docs]: /components/xiaomi_aqara_tv/
+[media_player.xiaomi_tv docs]: /components/xiaomi_tv/
 [media_player.yamaha docs]: /components/yamaha/
 [mqtt_eventstream docs]: /components/mqtt_eventstream/
 [neato docs]: /components/neato/
@@ -503,7 +503,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [websocket_api docs]: /components/websocket_api/
 [wink docs]: /components/wink/
 [wirelesstag docs]: /components/wirelesstag/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zone docs]: /components/zone/
 [zwave docs]: /components/zwave/
 [#14966]: https://github.com/home-assistant/home-assistant/pull/14966

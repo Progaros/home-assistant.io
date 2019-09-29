@@ -87,7 +87,7 @@ __Existing SmartThings configuration entries will be removed,__ including the Sm
 [sensor.google_travel_time docs]: /components/google_travel_time/
 [water_heater docs]: /components/water_heater/
 [webostv docs]: /components/webostv/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 
 ## Release 0.89.2 - March 12
 
@@ -637,8 +637,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [device_tracker docs]: /components/device_tracker/
 [esphome docs]: /components/esphome/
 [frontend docs]: /components/frontend/
-[google_assistant docs]: /components/google_translate_assistant/
-[googlehome docs]: /components/google_translatehome/
+[google_assistant docs]: /components/google_assistant/
+[googlehome docs]: /components/googlehome/
 [history docs]: /components/history/
 [homekit_controller docs]: /components/homekit_controller/
 [homematic docs]: /components/homematic/
@@ -728,5 +728,5 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [weather.meteo_france docs]: /components/meteo_france/
 [weather.openweathermap docs]: /components/openweathermap/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/

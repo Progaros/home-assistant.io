@@ -355,7 +355,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fritzbox docs]: /components/fritzbox/
 [frontend docs]: /components/frontend/
 [google docs]: /components/google_translate/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [homekit_controller docs]: /components/homekit_controller/
 [homematic docs]: /components/homematic/
 [homematicip_cloud docs]: /components/homematicip_cloud/

@@ -437,7 +437,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [updater docs]: /components/updater/
 [weather.bom docs]: /components/bom/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [zwave docs]: /components/zwave/
 [#14653]: https://github.com/home-assistant/home-assistant/pull/14653

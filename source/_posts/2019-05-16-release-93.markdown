@@ -112,7 +112,7 @@ For those of you that like to power down your Sonos, Home Assistant should now h
 [@elupus]: https://github.com/elupus
 [@karlkar]: https://github.com/karlkar
 [@pvizeli]: https://github.com/pvizeli
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [honeywell docs]: /components/honeywell/
 [onvif docs]: /components/onvif/
 
@@ -780,7 +780,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [geofency docs]: /components/geofency/
 [glances docs]: /components/glances/
 [google docs]: /components/google_translate/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [greeneye_monitor docs]: /components/greeneye_monitor/
 [hangouts docs]: /components/hangouts/
 [heos docs]: /components/heos/
@@ -868,7 +868,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [vesync docs]: /components/vesync/
 [vizio docs]: /components/vizio/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [xmpp docs]: /components/xmpp/
 [yeelight docs]: /components/yeelight/
 [yr docs]: /components/yr/

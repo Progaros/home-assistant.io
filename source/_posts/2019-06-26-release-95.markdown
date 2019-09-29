@@ -128,7 +128,7 @@ We have also realized that the default database clean up task never automaticall
 [@dmulcahey]: https://github.com/dmulcahey
 [@pnbruckner]: https://github.com/pnbruckner
 [@pvizeli]: https://github.com/pvizeli
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [life360 docs]: /components/life360/
 [netatmo docs]: /components/netatmo/
 [script docs]: /components/script/
@@ -721,8 +721,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [gitlab_ci docs]: /components/gitlab_ci/
 [glances docs]: /components/glances/
 [google docs]: /components/google_translate/
-[google_assistant docs]: /components/google_translate_assistant/
-[google_cloud docs]: /components/google_translate_cloud/
+[google_assistant docs]: /components/google_assistant/
+[google_cloud docs]: /components/google_cloud/
 [heos docs]: /components/heos/
 [homeassistant docs]: /components/homeassistant/
 [homematic docs]: /components/homematic/
@@ -789,7 +789,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [waze_travel_time docs]: /components/waze_travel_time/
 [webostv docs]: /components/webostv/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [yeelight docs]: /components/yeelight/
 [yr docs]: /components/yr/
 [zha docs]: /components/zha/

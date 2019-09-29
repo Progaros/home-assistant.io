@@ -489,7 +489,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [edp_redy docs]: /components/edp_redy/
 [fan.zha docs]: /components/zha/
 [geo_location docs]: /components/geo_location/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [hangouts docs]: /components/hangouts/
 [hassio docs]: /components/hassio/
 [homekit docs]: /components/homekit/
@@ -573,6 +573,6 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [websocket_api docs]: /components/websocket_api/
 [wink docs]: /components/wink/
 [wirelesstag docs]: /components/wirelesstag/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [zoneminder docs]: /components/zoneminder/

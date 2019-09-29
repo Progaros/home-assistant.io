@@ -575,7 +575,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [egardia docs]: /components/egardia/
 [fan.insteon_plm docs]: /components/insteon/
 [frontend docs]: /components/frontend/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [group docs]: /components/group/
 [homekit docs]: /components/homekit/
 [http docs]: /components/http/
@@ -651,7 +651,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [vacuum.xiaomi_miio docs]: /components/vacuum.xiaomi_miio/
 [weather docs]: /components/weather/
 [weather.darksky docs]: /components/weather.darksky/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zabbix docs]: /components/zabbix/
 [zha docs]: /components/zha/
 [zwave docs]: /components/zwave/
@@ -664,7 +664,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [@cdce8p]: https://github.com/cdce8p
 [@kellerza]: https://github.com/kellerza
 [device_tracker docs]: /components/device_tracker/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [homekit docs]: /components/homekit/
 [#12996]: https://github.com/home-assistant/home-assistant/pull/12996
 [#13037]: https://github.com/home-assistant/home-assistant/pull/13037
@@ -688,7 +688,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [sensor.sabnzbd docs]: /components/sabnzbd/
 [sensor.sql docs]: /components/sql/
 [wink docs]: /components/wink/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [#12939]: https://github.com/home-assistant/home-assistant/pull/12939
 [#13058]: https://github.com/home-assistant/home-assistant/pull/13058
 [#13062]: https://github.com/home-assistant/home-assistant/pull/13062
@@ -737,7 +737,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [@balloob]: https://github.com/balloob
 [@cdce8p]: https://github.com/cdce8p
 [arlo docs]: /components/arlo/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [homekit docs]: /components/homekit/
 [media_player.sonos docs]: /components/sonos/
 [#13226]: https://github.com/home-assistant/home-assistant/pull/13226
@@ -750,6 +750,6 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [@balloob]: https://github.com/balloob
 [camera.proxy docs]: /components/proxy/
 [device_tracker docs]: /components/device_tracker/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [light.demo docs]: /components/light.demo/
 [media_player.sonos docs]: /components/sonos/

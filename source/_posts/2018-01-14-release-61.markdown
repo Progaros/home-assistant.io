@@ -669,9 +669,9 @@ Note however, that this feature was replaced by a new ignore_string config optio
 [fan.insteon_local docs]: /components/insteon_local/
 [fan.isy994 docs]: /components/isy994/
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
-[google_assistant docs]: /components/google_translate_assistant/
-[google_assistant.http docs]: /components/google_translate_assistant/
-[google_assistant.smart_home docs]: /components/google_translate_assistant
+[google_assistant docs]: /components/google_assistant/
+[google_assistant.http docs]: /components/google_assistant/
+[google_assistant.smart_home docs]: /components/google_assistant
 [group docs]: /components/group/
 [hassio docs]: /components/hassio/
 [history docs]: /components/history/

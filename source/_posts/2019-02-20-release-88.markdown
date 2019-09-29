@@ -116,7 +116,7 @@ Note for custom component developers: We are moving to a new file structure. Mor
 [person docs]: /components/person/
 [scene docs]: /components/scene/
 [smartthings docs]: /components/smartthings/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 
 ## If you need help...
 
@@ -648,8 +648,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fastdotcom docs]: /components/fastdotcom/
 [feedreader docs]: /components/feedreader/
 [freedns docs]: /components/freedns/
-[google_pubsub docs]: /components/google_translate_pubsub/
-[googlehome docs]: /components/google_translatehome/
+[google_pubsub docs]: /components/google_pubsub/
+[googlehome docs]: /components/googlehome/
 [harmony docs]: /components/harmony/
 [homekit docs]: /components/homekit/
 [homematic docs]: /components/homematic/
@@ -727,7 +727,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [velux docs]: /components/velux/
 [websocket_api docs]: /components/websocket_api/
 [wink docs]: /components/wink/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [xs1 docs]: /components/xs1/
 [zha docs]: /components/zha/
 [zwave docs]: /components/zwave/

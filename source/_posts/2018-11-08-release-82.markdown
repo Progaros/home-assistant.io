@@ -609,7 +609,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
 [ffmpeg docs]: /components/ffmpeg/
 [geo_location docs]: /components/geo_location/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [greeneye_monitor docs]: /components/greeneye_monitor/
 [hassio docs]: /components/hassio/
 [homematicip_cloud docs]: /components/homematicip_cloud/

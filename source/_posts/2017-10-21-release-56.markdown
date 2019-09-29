@@ -453,7 +453,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [device_tracker.upc_connect docs]: /components/upc_connect/
 [enocean docs]: /components/enocean/
 [ffmpeg docs]: /components/ffmpeg/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [hassio docs]: /components/hassio/
 [homematic docs]: /components/homematic/
 [http docs]: /components/http/
@@ -539,7 +539,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [vera docs]: /components/vera/
 [weather.openweathermap docs]: /components/openweathermap/
 [wink docs]: /components/wink/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [#10024]: https://github.com/home-assistant/home-assistant/pull/10024
 [#10029]: https://github.com/home-assistant/home-assistant/pull/10029

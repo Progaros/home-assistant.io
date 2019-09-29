@@ -738,7 +738,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [geniushub docs]: /components/geniushub/
 [geonetnz_quakes docs]: /components/geonetnz_quakes/
 [glances docs]: /components/glances/
-[google_maps docs]: /components/google_translate_maps/
+[google_maps docs]: /components/google_maps/
 [slide docs]: /components/slide/
 [growatt_server docs]: /components/growatt_server/
 [gtfs docs]: /components/gtfs/

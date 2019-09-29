@@ -340,7 +340,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fan.tuya docs]: /components/tuya/
 [fan.wink docs]: /components/wink/
 [fan.zha docs]: /components/zha/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [hassio docs]: /components/hassio/
 [homematic docs]: /components/homematic/
 [homematicip_cloud docs]: /components/homematicip_cloud/

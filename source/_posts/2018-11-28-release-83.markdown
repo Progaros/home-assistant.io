@@ -94,7 +94,7 @@ Note, this release includes a migration to add an index to speed up the logbook 
 [binary_sensor.rainmachine docs]: /components/rainmachine/
 [emulated_hue docs]: /components/emulated_hue/
 [fibaro docs]: /components/fibaro/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [group docs]: /components/group/
 [http docs]: /components/http/
 [logbook docs]: /components/logbook/
@@ -143,7 +143,7 @@ We had an issue where users that are still using the legacy auth for API access 
 [@kennedyshead]: https://github.com/kennedyshead
 [@w1ll1am23]: https://github.com/w1ll1am23
 [asuswrt docs]: /components/asuswrt/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [sensor.asuswrt docs]: /components/asuswrt/
 [wink docs]: /components/wink/
 
@@ -714,7 +714,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
 [fibaro docs]: /components/fibaro/
 [geofency docs]: /components/geofency/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [hangouts docs]: /components/hangouts/
 [hassio docs]: /components/hassio/
 [homekit docs]: /components/homekit/

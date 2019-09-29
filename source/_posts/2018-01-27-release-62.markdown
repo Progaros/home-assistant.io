@@ -417,7 +417,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [ecobee docs]: /components/ecobee/
 [emulated_hue docs]: /components/emulated_hue/
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
-[google_assistant docs]: /components/google_translate_assistant/
+[google_assistant docs]: /components/google_assistant/
 [hassio docs]: /components/hassio/
 [hive docs]: /components/hive/
 [homematic docs]: /components/homematic/
@@ -482,7 +482,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [waterfurnace docs]: /components/waterfurnace/
 [wemo docs]: /components/wemo/
 [wink docs]: /components/wink/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zwave docs]: /components/zwave/
 [@martinhjelmare]: https://github.com/martinhjelmare
 [@frenck]: https://github.com/frenck

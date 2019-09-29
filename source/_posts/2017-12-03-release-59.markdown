@@ -351,8 +351,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [ecobee docs]: /components/ecobee/
 [emulated_hue docs]: /components/emulated_hue/
 [fan.xiaomi_miio docs]: /components/fan.xiaomi_miio/
-[google_assistant.http docs]: /components/google_translate_assistant/
-[google_assistant.smart_home docs]: /components/google_translate_assistant
+[google_assistant.http docs]: /components/google_assistant/
+[google_assistant.smart_home docs]: /components/google_assistant
 [hive docs]: /components/hive/
 [homematic docs]: /components/homematic/
 [influxdb docs]: /components/influxdb/

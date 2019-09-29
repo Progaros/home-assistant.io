@@ -810,7 +810,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [media_player.gpmdp docs]: /components/gpmdp/
 [media_player.mpd docs]: /components/mpd/
 [media_player.songpal docs]: /components/songpal/
-[media_player.xiaomi_tv docs]: /components/xiaomi_aqara_tv/
+[media_player.xiaomi_tv docs]: /components/xiaomi_tv/
 [mqtt docs]: /components/mqtt/
 [mychevy docs]: /components/mychevy/
 [mythicbeastsdns docs]: /components/mythicbeastsdns/
@@ -903,7 +903,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [weather.smhi docs]: /components/smhi/
 [websocket_api docs]: /components/websocket_api/
 [wemo docs]: /components/wemo/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [zoneminder docs]: /components/zoneminder/
 [zwave docs]: /components/zwave/

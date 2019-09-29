@@ -478,7 +478,7 @@ rainmachine:
 [weather.darksky docs]: /components/weather.darksky/
 [weather.openweathermap docs]: /components/openweathermap/
 [websocket_api docs]: /components/websocket_api/
-[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara/
 [zha docs]: /components/zha/
 [zone docs]: /components/zone/
 [zwave docs]: /components/zwave/
