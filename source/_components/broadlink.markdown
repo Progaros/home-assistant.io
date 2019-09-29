@@ -204,7 +204,7 @@ slots:
       type: string
 {% endconfiguration %}
 
-Information about how to install on Windows can be found [here](/components/sensor.broadlink/#microsoft-windows-installation).
+Information about how to install on Windows can be found [here](/components/broadlink/#microsoft-windows-installation).
 
 ### How to obtain IR/RF packets?
 

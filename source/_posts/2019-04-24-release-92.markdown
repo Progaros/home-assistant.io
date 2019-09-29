@@ -146,7 +146,7 @@ Finally, if you are still receiving a message that your configuration contains e
 [cast docs]: /components/cast/
 [cloud docs]: /components/cloud/
 [geniushub docs]: /components/geniushub/
-[google_assistant docs]: /components/google_assistant/
+[google_assistant docs]: /components/google_translate_assistant/
 [heos docs]: /components/heos/
 [hue docs]: /components/hue/
 [mobile_app docs]: /components/mobile_app/
@@ -1007,9 +1007,9 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [geo_rss_events docs]: /components/geo_rss_events/
 [geofency docs]: /components/geofency/
 [glances docs]: /components/glances/
-[google docs]: /components/google/
-[google_assistant docs]: /components/google_assistant/
-[google_translate docs]: /components/google_translate/
+[google docs]: /components/google_translate/
+[google_assistant docs]: /components/google_translate_assistant/
+[google_translate docs]: /components/google_translate_translate/
 [gpslogger docs]: /components/gpslogger/
 [gtfs docs]: /components/gtfs/
 [hangouts docs]: /components/hangouts/
@@ -1088,7 +1088,7 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [water_heater docs]: /components/water_heater/
 [websocket_api docs]: /components/websocket_api/
 [wemo docs]: /components/wemo/
-[xiaomi_miio docs]: /components/xiaomi_miio/
+[xiaomi_miio docs]: /components/xiaomi_aqara_miio/
 [yeelight docs]: /components/yeelight/
 [zengge docs]: /components/zengge/
 [zestimate docs]: /components/zestimate/

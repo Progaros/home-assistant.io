@@ -818,8 +818,8 @@ Experiencing issues introduced by this release? Please report them in our [issue
 [geo_json_events docs]: /components/geo_json_events/
 [geo_location docs]: /components/geo_location/
 [glances docs]: /components/glances/
-[google_assistant docs]: /components/google_assistant/
-[google_cloud docs]: /components/google_cloud/
+[google_assistant docs]: /components/google_translate_assistant/
+[google_cloud docs]: /components/google_translate_cloud/
 [hikvision docs]: /components/hikvision/
 [hive docs]: /components/hive/
 [homekit docs]: /components/homekit/

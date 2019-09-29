@@ -155,7 +155,7 @@ Screencap of the batcave video.
 [cloud docs]: /components/cloud/
 [demo docs]: /components/demo/
 [fan docs]: /components/fan/
-[google_maps docs]: /components/google_maps/
+[google_maps docs]: /components/google_translate_maps/
 [tuya docs]: /components/tuya/
 
 ## Release 0.98.3 - September 4
@@ -805,8 +805,8 @@ anymore. - ([@abmantis] - [#25971])
 [fronius docs]: /components/fronius/
 [geniushub docs]: /components/geniushub/
 [geonetnz_quakes docs]: /components/geonetnz_quakes/
-[google_maps docs]: /components/google_maps/
-[googlehome docs]: /components/googlehome/
+[google_maps docs]: /components/google_translate_maps/
+[googlehome docs]: /components/google_translatehome/
 [group docs]: /components/group/
 [heos docs]: /components/heos/
 [homekit_controller docs]: /components/homekit_controller/
@@ -889,6 +889,6 @@ anymore. - ([@abmantis] - [#25971])
 [volumio docs]: /components/volumio/
 [websocket_api docs]: /components/websocket_api/
 [wunderground docs]: /components/wunderground/
-[xiaomi_aqara docs]: /components/xiaomi_aqara/
+[xiaomi_aqara docs]: /components/xiaomi_aqara_aqara/
 [zha docs]: /components/zha/
 [zwave docs]: /components/zwave/
