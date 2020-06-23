@@ -144,6 +144,7 @@ This integration is tested to work with the following models. If you have a diff
 | `bslamp1`  | MJCTD02YL    | Xiaomi Mijia Bedside Lamp II                     |
 | `RGBW`     | MJDP02YL     | Mi LED smart Lamp - white and color Wi-Fi Version|
 | `lamp1`    | MJTD01YL     | Xiaomi Mijia Smart LED Desk Lamp (autodiscovery isn't possible because the device doesn't support mDNS due to the small amount of RAM) |
+| `lamp1`    | MJTd02YL     | Xiaomi Mijia Smart LED Desk Lamp Pro             |
 | `ceiling1` | YLXD01YL     | Yeelight Ceiling Light                           |
 | `ceiling2` | YLXD03YL     | Yeelight Ceiling Light - Youth Version           |
 | ?, may be `ceiling3` | YLXD04YL     | Yeelight Ceiling Light (Jiaoyue 450)   |
